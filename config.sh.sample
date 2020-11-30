@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# You can either edit this file and save it as config.sh or simply run the install.sh file 
+# and config.sh will be created based on your input.
+#
+# This file need to be valid BASH syntax
+
+SENDY_PATH="/PATH/TO/YOUR/SENDY/INSTALLATION"
